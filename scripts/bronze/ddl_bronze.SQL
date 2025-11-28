@@ -56,7 +56,7 @@ if object_id ('bronze.erp_loc_a101', 'U') is not null
 
 create table bronze.erp_loc_a101 (
     cid nvarchar(50),
-    entry nvarchar(50)
+    cntry nvarchar(50)
 );
 
 if object_id ('bronze.erp_cust_az12', 'U') is not null
