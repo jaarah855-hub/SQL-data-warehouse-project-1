@@ -15,7 +15,7 @@ Data Modeling: Developing fact and dimension tables optimized for analytical que
 
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
-🔴 This repository is an excellent resource for data enthousisast like me looking to showcase expertise in:
+🔴 This repository is an excellent resource for data enthousiast like me looking to showcase expertise in:
 
 SQL Development
 
